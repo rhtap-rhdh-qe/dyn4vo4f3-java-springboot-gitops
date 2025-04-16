@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dyn4vo4f3-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dyn4vo4f3-java-springboot-gitops
